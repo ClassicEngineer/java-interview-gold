@@ -23,6 +23,7 @@
 + [Основы HTML](#Основы-html) ![icon][done]
 + [Основы CSS](#Основы-css) ![icon][done]
 + [Основы Web](#Основы-web) ![icon][done]
++ [Hibernate](#Hibernate) ![icon][done]
 + [Дополнительные материалы](#Дополнительные-материалы) ![icon][done]
 
 [done]:done.png
@@ -744,6 +745,12 @@
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
+## Hibernate
++ [Что такое Session?](hibernate.md#Что-такое-Session?)
++ [Что такое SessionFactory?](hibernate.md#Что-такое-SessionFactory?)
+
+
+[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 ## Дополнительные материалы
 + [4 толковых канала на Youtube про технические собеседования](https://habr.com/ru/post/454264/)
 + [A list of fancy questions I've been asked during the interviews I had](https://github.com/d1mnewz/interviews)
